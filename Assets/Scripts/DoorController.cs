@@ -5,7 +5,7 @@ using UnityEngine;
 public class DoorController : MonoBehaviour {
 
     public GameObject character;
-    public float distance = 10f;
+    public float distance = 3f;
     private Animator animator;
 
     private void Start()
