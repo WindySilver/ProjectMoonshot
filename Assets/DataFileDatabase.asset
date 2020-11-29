@@ -1,0 +1,1195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9191300578748123805
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: f503333c-6aa1-445e-9dca-64b83b2dffcf
+  m_ItemName: ResearchLog373
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 4198510638341882218, guid: 5c097aff8bea1a94683eda25992b1015,
+    type: 3}
+  m_Description: '19th November, 2022
+
+
+
+    I have finally gathered both a crew
+    suitable for developing Project Moonshot and the funding necessary for it. The
+    research facility on Moon will be ready for occupying starting from January 1st,
+    which is when we will start out work in practice.
+
+
+
+    I can''t wait for New
+    Year''s Eve.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 0
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-9023575430950020369
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 815c487d-9bb3-4cb2-bcfe-998c07629bfb
+  m_ItemName: AMemo
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 1761146189288602208, guid: d68435145b68941458e573412d7ed986,
+    type: 3}
+  m_Description: 'Ask for the next shipment:
+
+    -A new lock for the diary
+
+    -Painkillers
+
+    -Some
+    extra-large pads
+
+    -Something that can get period stains off of fabric; ask
+    Aubree for recommendations
+
+    -Chocolate (dock it off my pay for all I care,
+    I need it)'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-8979615261652379956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 35be9499-fa28-4a9c-93af-2ac5d0777ea1
+  m_ItemName: Unidentified1
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 4909241643747578403, guid: cc57414fe1c162d45a51a046a941a945,
+    type: 3}
+  m_Description: '5
+
+
+
+    He put his hand on Cheren''s paled cheek, feeling it warm
+    against his palm. "You know, you are cute without glasses."
+
+    "I take it you
+    have a thing for underage guys. Did you do this to your son too?" Hoping that
+    his words kept the terrifying man''s attention on his face, Cheren reached for
+    his pocket'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-8922974326439027729
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b8ce84b90caa548ba4d29381f5d494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 3cee8ba5-abf7-4964-9f7e-a51144d3c0e1
+  m_ItemName: New Item
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 0}
+  m_Description: 
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+  currencyConversions: []
+--- !u!114 &-8412377279511018382
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 28789c4b-b249-4171-ad9e-d953696e9330
+  m_ItemName: ChatLog12_12-26012026
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 5909147815905948230, guid: c1f12d2f0a662f14fa632de9bf71ac74,
+    type: 3}
+  m_Description: '17:33
+
+
+
+    Arthur: Iora said that it''s not dangerous, just phantom
+    pain from the accident despite of the prosthetic.
+
+    Aubree: Despite of the
+    prosthetic? I thought that it was supposed to suppress such things.
+
+    Arthur:
+    So she said. She told me that she will ask Moana if there are funds for calling
+    a technician to see it.
+
+    Aubree: Can''t Erlene check it out? She''s the mechanic
+    and maintenance person here.
+
+    Arthur: Iora was against it since she hasn''t
+    worked with prosthetics on the level my issue requires.
+
+    Arthur: Although
+    I''m pretty sure people in general don''t like Erlene that much here, so it might
+    have factored in to that.
+
+    Aubree: Yes... She does seem... off somehow. And
+    as far as I''ve deduced from his actions, Lysander appears to be afraid of being
+    left alone with her.
+
+    Arthur: For someone as shy as him, being left alone
+    with anyone is probably a nightmare. Poor guy
+
+    Aubree: I think there''s something
+    else behind it than just that.
+
+    Arthur: Well, I suppose it''s none of our
+    business. If Erlene is causing trouble but is still here, it must mean that she''s
+    not too bad to justice the effort of rehiring.
+
+    Aubree: I guess you''re right,
+    darling.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-7640946199327813029
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: ef2f644e-3f8f-4b24-8ea3-e02f513c5b11
+  m_ItemName: ChatLog5_10-31032023-2
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 3906484992109797321, guid: 5b2bf6c438672d4408b7c5a2486a152b,
+    type: 3}
+  m_Description: '18:04
+
+
+
+    White: I''ve got a question.
+
+
+
+    18:11
+
+
+
+    Award:
+    Ask ahead.
+
+    White: Can''t you do anything about Erlene''s case?
+
+    Award:
+    Not unless Lysander makes an official complaint. Haven''t been able to convince
+    him to do so yet.
+
+    White: Ah, I see.
+
+    Award: If you do witness her doing
+    that garbage, feel free to file a complaint yourself so that I can stop acting
+    like an undercover agent.
+
+    White: I don''t think she does that when there
+    are others around, so that''ll probably be toubh.
+
+    White: *tough
+
+    White:
+    I''ll see if I can spot any CCTV footage for a complaint.
+
+    Award: I''d appreciate
+    that. Thank you.
+
+    White: No problem. Happy to help such an accepting team
+    :)
+
+    Award: And we are more than happy to have you! :)
+
+    White: <3'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 0
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-7572818956550522239
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: e48950d9-7b7d-44c1-8408-863808cae858
+  m_ItemName: ResearchLog1261
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 8997432381535473637, guid: 3ebd6affce91bb447aadbdedd602b3ee,
+    type: 3}
+  m_Description: '24th April, 2025
+
+
+
+    Ever since our breakthrough, Project Moonshot
+    has taken leaps and bounds. The first specimens are going to be mature enough
+    soon.
+
+
+
+    I can''t wait to see what we have created outside of the breeding
+    tubes!'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-7320481060351883912
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 291907c7-da7c-4643-a948-31598eb8add1
+  m_ItemName: MoanasDiary25122025
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 3357187820681146563, guid: 638a016981ae28648af30868b0ce1bad,
+    type: 3}
+  m_Description: '24th December, 2025
+
+
+
+    Dear Diary,
+
+
+
+    Merry Christmas.
+    I''m stuck up here because of work this Christmas too. Not that I''d have family
+    down on Earth anymore, at least any that''d care to have me down there. The Moon
+    Station crew isn''t my family, but it''s stable enough to be the closest thing
+    I have to it.
+
+
+
+    I just wish Meredith saw reason. Last I heard, she was still
+    hung up on our parents'' deaths during The Pandemic. It''s been four years and
+    she still hasn''t gotten therapy, apparently. The grapevine told me that the
+    government was willing to pay for it just to get her back to the work force (God
+    knows we need everyone who can work right now), but she declined. Idiot little
+    sister. If only she''d stop being such a spoiled, entitled brat and took some
+    responsibility. We have more than too many freeloaders as it is even though we
+    can barely support the disabled and sick who can''t work.
+
+
+
+    Well, hopefully
+    we''ll have some answers to the lack of work force soon since this year has been
+    getting better and better with the project. Science keeps surprising me even
+    though I''ve been in the field for over two decades.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-6610394148511160646
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1d0d5578788bb14ba70b8a002ce205b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unstackEvent: 3
+  unstackKeyCode: 304
+--- !u!114 &-5963986125381419596
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 942e8226-b5f6-4035-9f28-803435283b12
+  m_ItemName: ResearchLog1
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 4751652268589764715, guid: 79297823ea06d154eb199ce806a311f8,
+    type: 3}
+  m_Description: '11th November, 2021
+
+
+
+    This is the first day of the many of
+    my newest project. The Pandemic cut our work force down to terrifyingly low numbers
+    and something has to be done.
+
+
+
+    Humans cannot create life suitable for work
+    fast enough, so we have to create such life faster. Starting from today, I will
+    seek out scientists who can get it done.
+
+
+
+    Mark my words. This project,
+    Project Moonshot, will succeed and help our society get back on its feet.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 0
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-5453105584330865215
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cefcd19cdc9839d449772c4dce1503f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoSave: 1
+  savingKey: Player
+  savingRate: 60
+  provider: 0
+--- !u!114 &-2437749739882419757
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75ad62c39bcb4544a7ae046cdfd8b59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contextMenuName: ContextMenu
+  tooltipName: Tooltip
+  stackName: Stack
+  notificationName: Notification
+--- !u!114 &-2086276473096626085
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 04da632f-8e85-42b7-9af4-8440a5337b97
+  m_ItemName: SuomiPerkeleFiles3-1-2026
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 1454390762439153888, guid: 5f58a730be0bc354e905641687378827,
+    type: 3}
+  m_Description: 'Moana asked me out on a date. Tomorrow, we''ll do a small walk
+    outside, have some dinner after others have eaten, then shut ourselves into her
+    quarters for some... snuggling.
+
+
+
+    It''s about the damn time that she asked
+    me out. She''s been checking me out for a year at least, and I have been checking
+    her out pretty much ever since she arrived here.
+
+
+
+    I do hope that I get
+    to have some action in that bed of hers.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-1617462647949820225
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a031a30894f085742887ec331ba7d697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerTag: Player
+  maxDropDistance: 3
+  debugMessages: 1
+  showAllComponents: 0
+--- !u!114 &-262878962087938837
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 05371aeb-adf8-4839-96f7-c49f15b71c90
+  m_ItemName: ChatLog5_10-31032023-1
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 7242497389055722964, guid: 685211f3cb3a08041891b45eb57222d9,
+    type: 3}
+  m_Description: "15:41\r\n\r\nAward: Just checking in since Lysander complained
+    about Erlene again. Have you gotten any progress on hooking her off the fanfic
+    sites?\r\nWhite: I've blocked the sites she has accessed before and after your
+    request during work time and monitored overall network activities. Nothing suspicious
+    so far, no VPN, no users accessing similar sites, no nothing.\r\nWhite: Maybe
+    she's accessing them on her phone?\r\nAward: Shouldn't she use our network for
+    that?\r\nWhite: If there are satellites in range, she might be able to use mobile
+    data.\r\nAward: Great...\r\nAward: Can we stop that?\r\nWhite: Not if that's
+    the case. Sorry.\r\nAward: It ok. Thanks for everything.\r\nWhite: Do you want
+    me to keep the worktime block on?\r\nAward: Please do. The fewer distractions
+    during work, the better.\r\nWhite: Will do.\r"
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 0
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &-101587679461098675
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4abab319188bac4a8515c585b13ba9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Data
+  m_Cooldown: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 138669a60fd8dc345859b20ddc2ad589, type: 3}
+  m_Name: DataFileDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 5346770604834739264}
+  - {fileID: -5963986125381419596}
+  - {fileID: -9191300578748123805}
+  - {fileID: -262878962087938837}
+  - {fileID: 2816301619706091319}
+  - {fileID: 1901008093475683522}
+  - {fileID: 2511022938801303221}
+  - {fileID: -8979615261652379956}
+  - {fileID: 1107075464087515411}
+  - {fileID: -7572818956550522239}
+  - {fileID: 7078056814847985863}
+  - {fileID: -7320481060351883912}
+  - {fileID: -2086276473096626085}
+  - {fileID: -8412377279511018382}
+  - {fileID: -9023575430950020369}
+  - {fileID: -7640946199327813029}
+  currencies:
+  - {fileID: -8922974326439027729}
+  raritys: []
+  categories:
+  - {fileID: -101587679461098675}
+  equipments: []
+  itemGroups: []
+  settings:
+  - {fileID: -1617462647949820225}
+  - {fileID: -6610394148511160646}
+  - {fileID: 8510105851626371401}
+  - {fileID: -5453105584330865215}
+  - {fileID: -2437749739882419757}
+  folders: []
+--- !u!114 &1107075464087515411
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 0e3db5fe-9eb3-42e2-9024-bcd88c8c11bb
+  m_ItemName: SecurityFile28082024
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 3770831033618298514, guid: 5fcab430e4693a34b86a8a40de7837de,
+    type: 3}
+  m_Description: 'One of the new recruits, Cheren, is gone. Luckily, not by death,
+    but by his own choice.
+
+
+
+    I was not able to get many details before he stormed
+    off to the supply shuttle, but apparently he found one of Erlene''s writings
+    featuring him in a very questionable situation. Unfortunately, we cannot find
+    any proof as he tore the papers (yes, it was written on paper according to him,
+    on multiple pages) and destroyed at least most of the pieces.
+
+
+
+    Moana is
+    already in the process of finding someone else to fill in the cleaning position.
+    In the meantime, I will handle most of the necessary janitorial duties.
+
+
+
+    Signed
+    by Oscar Johnson.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &1901008093475683522
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 8f178e45-6699-4785-ab0e-380639879ce1
+  m_ItemName: ResearchLog963
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 8418546664251592873, guid: 03876155ba5043a4fa1c3eb515926d29,
+    type: 3}
+  m_Description: '30th June, 2024
+
+
+
+    This is Moana Vidiri writing. I am sad to
+    announce that the leader of the Project Moonshot team, Gideon Olmo, has passed
+    away alongside his wife, Samantha Olmo.
+
+
+
+    Two days ago, Gideon wrote that
+    we had succeeded in making sentient life. It seemed a little aggressive, but
+    Samantha was certain that it would calm down once it would get out of its breeding
+    tube.
+
+
+
+    Unfortunately, she was wrong. Subject Alpha assaulted the staff
+    and badly injured both Olmos before Oscar was able to subdue it. Samantha was
+    already dead by that point, but we tried to save Gideon. Our efforts were, however,
+    in vain.
+
+
+
+    Subject Alpha is now back in its tank, sedated, and the development
+    of Beta has been halted until we have decided what to do. As the senior scientist,
+    I have taken the lead until further notice, and will most likely continue Gideon''s
+    research logs regardless of whether or not I will keep the leadership position.
+
+
+
+    I
+    plan on keeping working on this project no matter what. The society needs the
+    work force Project Moonshot can offer, and I plan on delivering.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &2511022938801303221
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 1af68f51-fae6-4e1f-95bc-98f1c8b76ada
+  m_ItemName: ResearchLog984
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 2924270409023042839, guid: f7993800d0490eb45b95853c28d43352,
+    type: 3}
+  m_Description: '21st July, 2024
+
+
+
+    Today, our new neurobiologist, Heinz Rippner,
+    arrived at our facility. So far, everything has looked good and he has offered
+    excellent insights on things Samantha ignored with subjects Alpha and Beta. We
+    are currently considering terminating them and starting over; it appears that
+    Alpha and Beta are both unsalvageable.
+
+
+
+    This is probably the first time
+    since Samantha and Gideon''s death that I have actually felt hopeful.'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &2816301619706091319
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 982dd18b-2b72-413c-b7c2-038dc45532aa
+  m_ItemName: Chat Log 4_10-15062024
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 4783299791411656684, guid: e69c9dfd6ddf1cd48944a5d4242b2c21,
+    type: 3}
+  m_Description: '13:26
+
+
+
+    NOTLysandre: You got a minute, Oscar?
+
+    Award:
+    Always when there''s time to sit down and chat. What do you need?
+
+    NOTLysandre:
+    Erlene''s pushing her fanfics on my face again :/
+
+    Award: God have mercy.
+    What this time?
+
+    NOTLysandre: Giovanni x Blue
+
+    Award: o_o How big yikes?
+
+    NOTLysandre:
+    Not as big as usual but it''s making me uncomfortable (as always). Her obsession
+    with these is...
+
+    NOTLysandre: Concerning, I guess.
+
+    Award: I''d say
+    at least agitating, but sure.
+
+    Award: I''ll ask Iora if she can talk to her
+    about this after I''ve administered the mandatory reprimand.
+
+    NOTLysandre:
+    Thanks. :)
+
+    Award: No problem. Glad to help (:'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &5346770604834739264
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: a8296649-554d-42e0-afa5-c84e6ffd1cde
+  m_ItemName: Pad Welcome
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 4367544497272412618, guid: ab184db9e6703fa46845b321e3aad532,
+    type: 3}
+  m_Description: 'To whoever is reading this,
+
+
+
+    Since you are holding this pad,
+    it means you have been chosen to test this experimental pad. In case you have
+    forgotten, this pad scans the text on any surface, let it be paper, screen or
+    even a reflection and adds it to its own database to be viewed anywhere anytime
+    as long as the pad''s battery has not run out. So far, my tests have proved that
+    it works, but I need more user testing to see if something needs to be adjusted
+    or fixed.
+
+
+
+    You can view this document at any time in the database, which
+    you can access by pressing I.
+
+
+
+    Thank you for enrolling in the test program.
+
+
+
+    Yours
+    truly,
+
+    Bell Lach
+
+    Lead Designer'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 0
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &5844060926546855748
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b8ce84b90caa548ba4d29381f5d494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 7a5db234-57c3-444a-a61a-6051564a8c89
+  m_ItemName: Currency
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 0}
+  m_Description: 
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+  currencyConversions: []
+--- !u!114 &7078056814847985863
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14be5e3e6cf2204293682bf65bce5dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Id: 4d626b57-8504-4bf3-b7b2-230bfd36c620
+  m_ItemName: KetchupLog515
+  m_Icon: {fileID: 0}
+  m_Prefab: {fileID: 5356794268211893343, guid: 4f22bf8fb335d7646a9cee97a53e85d9,
+    type: 3}
+  m_Description: '18th December, 2025
+
+
+
+    I finally convinced Bell to watch Phineas
+    & Ferb with me. Yay! Xe was not impressed at first, but I can see that xe is
+    already starting to like the dynamic between my namesake and Perry.
+
+
+
+    I
+    can''t wait for the next "movie" evening with xem! It''s so much fun to have
+    someone watch some series with me!'
+  m_Category: {fileID: 0}
+  m_PossibleRarity: []
+  m_BuyPrice: 0
+  m_BuyCurrency: {fileID: 0}
+  m_SellPrice: 0
+  m_SellCurrency: {fileID: 0}
+  m_Stack: 1
+  m_MaxStack: 1
+  m_IsDroppable: 1
+  m_DropSound: {fileID: 0}
+  m_OverridePrefab: {fileID: 0}
+  m_IsCraftable: 0
+  m_CraftingDuration: 2
+  m_CraftingAnimatorState: Blacksmithy
+  ingredients: []
+  properties: []
+--- !u!114 &8510105851626371401
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3872ca8d5c2640d40b898af499332431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  containerFull:
+    title: 
+    text: '{0} is full!'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  failedRestriction:
+    title: 
+    text: '{0} can''t be added to {1}.'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  missingItem:
+    title: 
+    text: This action requires {0}.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  inCooldown:
+    title: 
+    text: '{0} is in cooldown for {1} seconds!'
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  selectItem:
+    title: 
+    text: Select an item you would like to craft.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  alreadyCrafting:
+    title: 
+    text: You are already crafting.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  craftedItem:
+    title: 
+    text: Successfully crafted {0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  missingIngredient:
+    title: 
+    text: You don't have all ingredients to craft this item!
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  soldItem:
+    title: 
+    text: Sold {0} for {1}.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  boughtItem:
+    title: 
+    text: Bought {0} for {1}.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  noCurrencyToBuy:
+    title: 
+    text: You don't have enough coins.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  toFarAway:
+    title: 
+    text: This is to far away!
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  inUse:
+    title: 
+    text: My life is already fairly busy.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1
+  empty:
+    title: 
+    text: There is nothing to be found here.
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 0}
+    delay: 2
+    duration: 2
+    ignoreTimeScale: 1

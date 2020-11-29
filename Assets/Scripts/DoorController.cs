@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine; 
+using UnityEngine;
 
 public class DoorController : MonoBehaviour {
 
@@ -22,6 +22,12 @@ public class DoorController : MonoBehaviour {
         else
         {
             animator.SetBool("character_nearby", false);
+        }
+
+        // Since everything else is already duct-taped, I'm putting the exit here for now
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
         }
     }
 }
